@@ -2,3 +2,11 @@ __pycache__/
 *.pkl
 .streamlit/
 digital-identity-frontend/
+# Ignore SQLite database
+users.db
+
+# Ignore raw training data
+doubt_classifier/data/
+
+# Ignore Jupyter notebook checkpoints
+.ipynb_checkpoints/
