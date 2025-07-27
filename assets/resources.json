@@ -1,19 +1,44 @@
 {
-  "Concept": [
-    "https://www.khanacademy.org/science",
+  "Operating Systems": [
+    "https://www.geeksforgeeks.org/operating-systems/",
+    "https://nptel.ac.in/courses/106/106/106106144/",
+    "notes/OS_concepts.pdf",
+    "https://www.javatpoint.com/operating-system"
+  ],
+  "DBMS": [
+    "https://www.geeksforgeeks.org/dbms/",
+    "https://www.tutorialspoint.com/dbms/index.htm",
+    "https://nptel.ac.in/courses/106/105/106105175/",
+    "notes/DBMS_summary.pdf"
+  ],
+  "OOPS": [
+    "https://www.geeksforgeeks.org/object-oriented-programming-in-cpp/",
+    "https://www.javatpoint.com/java-oops-concepts",
+    "https://www.programiz.com/java-programming/object-oriented-programming",
+    "notes/OOPS_basics.pdf"
+  ],
+  "DSA": [
     "https://www.geeksforgeeks.org/data-structures/",
-    "notes/OS_concepts.pdf"
+    "https://www.coursera.org/specializations/data-structures-algorithms",
+    "https://www.youtube.com/playlist?list=PLqM7alHXFySEQDk2MDfbwEdjd2svVJH9p",
+    "assignments/dsa_practice_set.pdf"
   ],
-  "Assignment": [
-    "https://www.coursera.org/learn/python",
-    "assignments/week3_assignment.pdf"
+  "Computer Architecture": [
+    "https://nptel.ac.in/courses/106/103/106103139/",
+    "https://www.javatpoint.com/computer-organization-and-architecture",
+    "https://www.tutorialspoint.com/computer_logical_organization/index.htm",
+    "notes/COA_notes.pdf"
   ],
-  "Exam Prep": [
-    "https://www.youtube.com/watch?v=Z6MKaYV3Dgo",
-    "https://ncert.nic.in/textbook.php"
+  "Software Engineering": [
+    "https://www.geeksforgeeks.org/software-engineering/",
+    "https://nptel.ac.in/courses/106/105/106105087/",
+    "https://www.tutorialspoint.com/software_engineering/index.htm",
+    "notes/SE_summary_sheet.pdf"
   ],
-  "General": [
-    "https://www.linkedin.com/learning/",
-    "https://www.mindtools.com/"
+  "Computer Networks": [
+    "https://www.geeksforgeeks.org/computer-network-tutorials/",
+    "https://nptel.ac.in/courses/106/105/106105081/",
+    "https://www.tutorialspoint.com/computer_fundamentals/computer_networking.htm",
+    "notes/Networking_quick_notes.pdf"
   ]
 }

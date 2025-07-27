@@ -1,0 +1,344 @@
+question,subject
+What is the main purpose of an operating system?,Operating Systems
+Explain the difference between preemptive and non-preemptive scheduling.,Operating Systems
+What is a deadlock? How can it be prevented?,Operating Systems
+Describe the concept of virtual memory.,Operating Systems
+What are the different process states in an operating system?,Operating Systems
+Explain the working of the Round Robin scheduling algorithm.,Operating Systems
+What is thrashing in OS?,Operating Systems
+Difference between mutex and semaphore.,Operating Systems
+What is a system call? Give examples.,Operating Systems
+Explain paging and segmentation in memory management.,Operating Systems
+What is the role of the file system in an OS?,Operating Systems
+Describe the producer-consumer problem.,Operating Systems
+What is RAID? Explain different RAID levels.,Operating Systems
+How does a fork() system call work?,Operating Systems
+Explain the concept of demand paging.,Operating Systems
+What is the difference between monolithic and microkernel architectures?,Operating Systems
+How does the LRU page replacement algorithm work?,Operating Systems
+What is a zombie process?,Operating Systems
+Explain the concept of CPU scheduling.,Operating Systems
+What is the purpose of the swap space?,Operating Systems
+Describe the Banker's algorithm for deadlock avoidance.,Operating Systems
+What is a real-time operating system?,Operating Systems
+Explain the concept of spooling.,Operating Systems
+Difference between internal and external fragmentation.,Operating Systems
+What is a distributed operating system?,Operating Systems
+Explain the concept of IPC (Inter-Process Communication).,Operating Systems
+What is the role of the shell in an operating system?,Operating Systems
+Describe the working of the First-Come-First-Served scheduling algorithm.,Operating Systems
+What is a page fault?,Operating Systems
+Explain the concept of multithreading.,Operating Systems
+What is the difference between system and application programs?,Operating Systems
+Describe the working of the Shortest Job First scheduling algorithm.,Operating Systems
+What is a critical section problem?,Operating Systems
+Explain the concept of buffering in OS.,Operating Systems
+What is the purpose of the init process in Unix?,Operating Systems
+Describe the working of the Priority scheduling algorithm.,Operating Systems
+What is a kernel?,Operating Systems
+Explain the concept of context switching.,Operating Systems
+What is the difference between logical and physical addresses?,Operating Systems
+Describe the working of the Multi-level Queue scheduling algorithm.,Operating Systems
+What is a trap in OS?,Operating Systems
+Explain the concept of memory-mapped files.,Operating Systems
+What is the purpose of the TLB (Translation Lookaside Buffer)?,Operating Systems
+Describe the working of the Multi-level Feedback Queue scheduling algorithm.,Operating Systems
+What is a race condition?,Operating Systems
+Explain the concept of disk scheduling.,Operating Systems
+What is the difference between synchronous and asynchronous I/O?,Operating Systems
+Describe the working of the Shortest Remaining Time First scheduling algorithm.,Operating Systems
+What is a system program?,Operating Systems
+Explain the concept of process synchronization.,Operating Systems
+What is the purpose of the BIOS in a computer system?,Operating Systems
+What is a database management system (DBMS)?,DBMS
+Explain the ACID properties in DBMS.,DBMS
+What is normalization? Explain 1NF, 2NF, and 3NF.,DBMS
+Difference between primary key and unique key.,DBMS
+What is a transaction in DBMS?,DBMS
+Explain the concept of indexing in databases.,DBMS
+What are the different types of joins in SQL?,DBMS
+Describe the CAP theorem in distributed databases.,DBMS
+What is a stored procedure?,DBMS
+Explain the difference between DELETE, TRUNCATE, and DROP commands.,DBMS
+What is a view in SQL?,DBMS
+Describe the concept of database sharding.,DBMS
+What is a trigger in DBMS?,DBMS
+Explain the difference between clustered and non-clustered indexes.,DBMS
+What is a deadlock in DBMS? How is it handled?,DBMS
+Describe the concept of database replication.,DBMS
+What is a cursor in SQL?,DBMS
+Explain the difference between OLTP and OLAP systems.,DBMS
+What is a composite key?,DBMS
+Describe the concept of database normalization.,DBMS
+What is a subquery in SQL?,DBMS
+Explain the difference between inner and outer joins.,DBMS
+What is a foreign key?,DBMS
+Describe the concept of database transactions.,DBMS
+What is a materialized view?,DBMS
+Explain the difference between horizontal and vertical partitioning.,DBMS
+What is a database schema?,DBMS
+Describe the concept of referential integrity.,DBMS
+What is a self-join?,DBMS
+Explain the difference between a database and a data warehouse.,DBMS
+What is a NoSQL database?,DBMS
+Describe the concept of database indexing.,DBMS
+What is a correlated subquery?,DBMS
+Explain the difference between a full backup and incremental backup.,DBMS
+What is a database checkpoint?,DBMS
+Describe the concept of database concurrency control.,DBMS
+What is a phantom read?,DBMS
+Explain the difference between a database administrator and data engineer.,DBMS
+What is a database lock?,DBMS
+Describe the concept of database triggers.,DBMS
+What is a dirty read in DBMS?,DBMS
+Explain the difference between a database view and table.,DBMS
+What is a database transaction log?,DBMS
+Describe the concept of database security.,DBMS
+What is a non-repeatable read?,DBMS
+Explain the difference between a database index and a hash.,DBMS
+What is a database constraint?,DBMS
+Describe the concept of database backup and recovery.,DBMS
+What is a database connection pool?,DBMS
+Explain the difference between a database and a filesystem.,DBMS
+What is a database deadlock?,DBMS
+Describe the concept of database performance tuning.,DBMS
+What is object-oriented programming?,OOPS
+Explain the four pillars of OOPS.,OOPS
+What is the difference between a class and an object?,OOPS
+Describe the concept of inheritance in OOPS.,OOPS
+What is polymorphism? Give examples.,OOPS
+Explain the concept of encapsulation in OOPS.,OOPS
+What is abstraction in OOPS?,OOPS
+Difference between method overloading and method overriding.,OOPS
+What is a constructor?,OOPS
+Explain the concept of interfaces in OOPS.,OOPS
+What is a destructor?,OOPS
+Describe the concept of abstract classes.,OOPS
+What is multiple inheritance? How is it handled in Java?,OOPS
+Explain the concept of composition in OOPS.,OOPS
+What is a friend function in C++?,OOPS
+Describe the concept of operator overloading.,OOPS
+What is a virtual function?,OOPS
+Explain the concept of static and dynamic binding.,OOPS
+What is an exception in OOPS?,OOPS
+Describe the concept of design patterns.,OOPS
+What is the singleton pattern?,OOPS
+Explain the concept of aggregation in OOPS.,OOPS
+What is a pure virtual function?,OOPS
+Describe the concept of method hiding.,OOPS
+What is the factory pattern?,OOPS
+Explain the concept of dependency injection.,OOPS
+What is the difference between an interface and an abstract class?,OOPS
+Describe the concept of the 'this' pointer in C++.,OOPS
+What is the observer pattern?,OOPS
+Explain the concept of copy constructors.,OOPS
+What is the decorator pattern?,OOPS
+Describe the concept of namespaces in C++.,OOPS
+What is the strategy pattern?,OOPS
+Explain the concept of templates in C++.,OOPS
+What is the adapter pattern?,OOPS
+Describe the concept of function overriding.,OOPS
+What is the MVC pattern?,OOPS
+Explain the concept of virtual inheritance in C++.,OOPS
+What is the prototype pattern?,OOPS
+Describe the concept of access modifiers.,OOPS
+What is the command pattern?,OOPS
+Explain the concept of friend classes.,OOPS
+What is the state pattern?,OOPS
+Describe the concept of object slicing.,OOPS
+What is the bridge pattern?,OOPS
+Explain the concept of inline functions.,OOPS
+What is the flyweight pattern?,OOPS
+Describe the concept of RTTI (Run-Time Type Information).,OOPS
+What is an array?,DSA
+Explain the time complexity of binary search.,DSA
+What is a linked list? Describe its types.,DSA
+Difference between stack and queue.,DSA
+What is a hash table? How does it work?,DSA
+Explain the concept of recursion.,DSA
+What is a binary tree? Describe its properties.,DSA
+Difference between BFS and DFS.,DSA
+What is a heap data structure?,DSA
+Explain the concept of dynamic programming.,DSA
+What is a graph? Describe its representations.,DSA
+Difference between quick sort and merge sort.,DSA
+What is a trie data structure?,DSA
+Explain the concept of greedy algorithms.,DSA
+What is a red-black tree?,DSA
+Difference between array and linked list.,DSA
+What is a priority queue?,DSA
+Explain the concept of backtracking.,DSA
+What is an AVL tree?,DSA
+Difference between linear and binary search.,DSA
+What is a skip list?,DSA
+Explain the concept of memoization.,DSA
+What is a B-tree?,DSA
+Difference between selection sort and insertion sort.,DSA
+What is a disjoint set (union-find) data structure?,DSA
+Explain the concept of topological sorting.,DSA
+What is a segment tree?,DSA
+Difference between bubble sort and quick sort.,DSA
+What is a suffix tree?,DSA
+Explain the concept of divide and conquer algorithms.,DSA
+What is a Fibonacci heap?,DSA
+Difference between adjacency list and adjacency matrix.,DSA
+What is a circular queue?,DSA
+Explain the concept of hashing.,DSA
+What is a splay tree?,DSA
+Difference between depth-first and breadth-first search.,DSA
+What is a deque?,DSA
+Explain the concept of the Knuth-Morris-Pratt algorithm.,DSA
+What is a binomial heap?,DSA
+Difference between Dijkstra's and Bellman-Ford algorithms.,DSA
+What is a Fenwick tree?,DSA
+Explain the concept of the Floyd-Warshall algorithm.,DSA
+What is a bloom filter?,DSA
+Difference between Kruskal's and Prim's algorithms.,DSA
+What is a hash map?,DSA
+Explain the concept of the A* search algorithm.,DSA
+What is a quadtree?,DSA
+Difference between counting sort and radix sort.,DSA
+What is a binary indexed tree?,DSA
+Explain the concept of the Rabin-Karp algorithm.,DSA
+What is a cache?,Computer Architecture
+Explain the concept of pipelining in processors.,Computer Architecture
+What is the difference between RISC and CISC architectures?,Computer Architecture
+Describe the memory hierarchy in a computer system.,Computer Architecture
+What is virtual memory? How does it work?,Computer Architecture
+Explain the concept of cache coherence.,Computer Architecture
+What is a TLB (Translation Lookaside Buffer)?,Computer Architecture
+Difference between SRAM and DRAM.,Computer Architecture
+What is an interrupt in computer architecture?,Computer Architecture
+Explain the concept of superscalar architecture.,Computer Architecture
+What is a multicore processor?,Computer Architecture
+Difference between Harvard and Von Neumann architectures.,Computer Architecture
+What is branch prediction?,Computer Architecture
+Explain the concept of SIMD and MIMD.,Computer Architecture
+What is a GPU?,Computer Architecture
+Difference between big-endian and little-endian.,Computer Architecture
+What is an ALU?,Computer Architecture
+Explain the concept of out-of-order execution.,Computer Architecture
+What is a register file?,Computer Architecture
+Difference between synchronous and asynchronous circuits.,Computer Architecture
+What is a memory-mapped I/O?,Computer Architecture
+Explain the concept of speculative execution.,Computer Architecture
+What is a DMA controller?,Computer Architecture
+Difference between hardwired and microprogrammed control units.,Computer Architecture
+What is a clock cycle in a processor?,Computer Architecture
+Explain the concept of instruction-level parallelism.,Computer Architecture
+What is a cache hit and cache miss?,Computer Architecture
+Difference between write-through and write-back cache policies.,Computer Architecture
+What is a system bus?,Computer Architecture
+Explain the concept of virtualization in computer architecture.,Computer Architecture
+What is a floating-point unit?,Computer Architecture
+Difference between physical and virtual addresses.,Computer Architecture
+What is a control unit in a CPU?,Computer Architecture
+Explain the concept of memory interleaving.,Computer Architecture
+What is a page table?,Computer Architecture
+Difference between static and dynamic RAM.,Computer Architecture
+What is a barrel shifter?,Computer Architecture
+Explain the concept of instruction pipelining.,Computer Architecture
+What is a cache line?,Computer Architecture
+Difference between direct-mapped and set-associative cache.,Computer Architecture
+What is a branch target buffer?,Computer Architecture
+Explain the concept of memory bandwidth.,Computer Architecture
+What is a register window?,Computer Architecture
+Difference between EPIC and VLIW architectures.,Computer Architecture
+What is a memory controller?,Computer Architecture
+Explain the concept of clock skew.,Computer Architecture
+What is a software development life cycle (SDLC)?,Software Engineering
+Explain the waterfall model in software engineering.,Software Engineering
+What is agile methodology?,Software Engineering
+Difference between verification and validation.,Software Engineering
+What is a use case diagram?,Software Engineering
+Explain the concept of software testing.,Software Engineering
+What is version control?,Software Engineering
+Difference between functional and non-functional requirements.,Software Engineering
+What is refactoring?,Software Engineering
+Explain the concept of continuous integration.,Software Engineering
+What is a class diagram in UML?,Software Engineering
+Difference between black-box and white-box testing.,Software Engineering
+What is pair programming?,Software Engineering
+Explain the concept of risk management in software projects.,Software Engineering
+What is a software requirement specification (SRS)?,Software Engineering
+Difference between unit testing and integration testing.,Software Engineering
+What is DevOps?,Software Engineering
+Explain the concept of software metrics.,Software Engineering
+What is a sequence diagram?,Software Engineering
+Difference between spiral and iterative models.,Software Engineering
+What is code review?,Software Engineering
+Explain the concept of test-driven development (TDD).,Software Engineering
+What is a state diagram?,Software Engineering
+Difference between alpha and beta testing.,Software Engineering
+What is a build tool?,Software Engineering
+Explain the concept of software architecture.,Software Engineering
+What is a Gantt chart?,Software Engineering
+Difference between smoke and sanity testing.,Software Engineering
+What is a mock object in testing?,Software Engineering
+Explain the concept of user stories in agile.,Software Engineering
+What is a deployment diagram?,Software Engineering
+Difference between Scrum and Kanban.,Software Engineering
+What is static code analysis?,Software Engineering
+Explain the concept of technical debt.,Software Engineering
+What is a component diagram?,Software Engineering
+Difference between system testing and acceptance testing.,Software Engineering
+What is a burndown chart?,Software Engineering
+Explain the concept of configuration management.,Software Engineering
+What is a collaboration diagram?,Software Engineering
+Difference between manual and automated testing.,Software Engineering
+What is a traceability matrix?,Software Engineering
+Explain the concept of the V-model in software testing.,Software Engineering
+What is a package diagram?,Software Engineering
+Difference between defect and failure in software testing.,Software Engineering
+What is continuous deployment?,Software Engineering
+Explain the concept of software prototyping.,Software Engineering
+What is the OSI model?,Computer Networks
+Explain the difference between TCP and UDP.,Computer Networks
+What is an IP address?,Computer Networks
+Describe the concept of subnetting.,Computer Networks
+What is DNS? How does it work?,Computer Networks
+Explain the difference between HTTP and HTTPS.,Computer Networks
+What is a router?,Computer Networks
+Difference between LAN, MAN, and WAN.,Computer Networks
+What is a firewall?,Computer Networks
+Explain the concept of NAT (Network Address Translation).,Computer Networks
+What is a MAC address?,Computer Networks
+Difference between IPv4 and IPv6.,Computer Networks
+What is a VPN?,Computer Networks
+Explain the concept of packet switching.,Computer Networks
+What is ARP?,Computer Networks
+Difference between symmetric and asymmetric encryption.,Computer Networks
+What is a switch?,Computer Networks
+Explain the concept of congestion control in networks.,Computer Networks
+What is ICMP?,Computer Networks
+Difference between circuit switching and packet switching.,Computer Networks
+What is a proxy server?,Computer Networks
+Explain the concept of quality of service (QoS).,Computer Networks
+What is BGP?,Computer Networks
+Difference between unicast, multicast, and broadcast.,Computer Networks
+What is a socket?,Computer Networks
+Explain the concept of MPLS.,Computer Networks
+What is DHCP?,Computer Networks
+Difference between FTP and SFTP.,Computer Networks
+What is a network topology?,Computer Networks
+Explain the concept of VLAN.,Computer Networks
+What is SSH?,Computer Networks
+Difference between hub, switch, and router.,Computer Networks
+What is RTP?,Computer Networks
+Explain the concept of load balancing.,Computer Networks
+What is a ping?,Computer Networks
+Difference between TCP/IP and OSI models.,Computer Networks
+What is a network protocol?,Computer Networks
+Explain the concept of port forwarding.,Computer Networks
+What is SMTP?,Computer Networks
+Difference between full-duplex and half-duplex communication.,Computer Networks
+What is a gateway?,Computer Networks
+Explain the concept of wireless networking.,Computer Networks
+What is POP3?,Computer Networks
+Difference between IMAP and POP3.,Computer Networks
+What is a network bridge?,Computer Networks
+Explain the concept of network security.,Computer Networks
+What is SNMP?,Computer Networks
+Difference between CSMA/CD and CSMA/CA.,Computer Networks
+What is a repeater?,Computer Networks
+Explain the concept of cloud networking.,Computer Networks
