@@ -1,0 +1,6 @@
+OOPS - Unit-wise Notes
+ Unit 1: Introduction- Principles of OOP: Abstraction, Encapsulation- Classes and Objects- Constructor & Destructor
+ Unit 2: Inheritance- Types: Single, Multiple, Multilevel, Hybrid- Function Overriding- Constructor Behavior in Inheritance
+ Unit 3: Polymorphism- Compile-time and Runtime Polymorphism- Function and Operator Overloading- Virtual Functions and Vtables
+ Unit 4: Abstraction and Interfaces- Abstract Classes and Interfaces- Pure Virtual Functions- Real-world Examples of Abstraction
+ Unit 5: Templates and Exception Handling- Function and Class Templates- Try-Catch Blocks- Custom Exceptions

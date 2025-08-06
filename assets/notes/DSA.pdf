@@ -1,0 +1,6 @@
+DSA - Unit-wise Notes
+ Unit 1: Introduction & Arrays- Algorithm Analysis & Asymptotic Notation- Arrays and Matrices- Searching: Linear & Binary Search- Sorting: Bubble, Selection, Insertion
+ Unit 2: Linked Lists- Singly, Doubly, Circular Lists- Operations: Insert, Delete, Traverse- Applications and Memory Management
+ Unit 3: Stacks and Queues- Stack Operations and Applications- Infix, Prefix, Postfix Expressions- Queues: Simple, Circular, Deque, Priority Queue
+ Unit 4: Trees- Binary Trees and Traversals- Binary Search Trees- AVL Trees and Heaps- Tree Applications
+ Unit 5: Graphs- Representation: Adjacency Matrix/List- Traversal: BFS, DFS- Dijkstras, Kruskals, Prims Algorithms- Topological Sorting

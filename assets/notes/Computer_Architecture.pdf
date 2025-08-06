@@ -1,0 +1,6 @@
+Computer Architecture - Unit-wise Notes
+ Unit 1: Basics & Number Systems- Binary, Octal, Hexadecimal- Complement Systems and Arithmetic- Boolean Algebra and Logic Gates
+ Unit 2: CPU Organization- Registers, ALU, Control Unit- Instruction Cycle and Pipelining- RISC vs CISC Architecture
+ Unit 3: Memory Organization- Cache Memory and Mapping- Primary vs Secondary Storage- Associative and Virtual Memory
+ Unit 4: I/O Organization- I/O Techniques: Programmed, Interrupt-driven, DMA- I/O Devices and Interfaces
+ Unit 5: Instruction Set Architecture- Instruction Formats and Types- Addressing Modes- Assembly Language Concepts

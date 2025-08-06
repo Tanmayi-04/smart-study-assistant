@@ -3,6 +3,8 @@ import joblib
 import json
 from utils.model_loader import load_model_and_vectorizer
 import os
+import base64
+import urllib
 
 def show_dashboard():
     st.success(f"✅ Logged in as: {st.session_state['user']} ({st.session_state['branch']})")
@@ -25,12 +27,36 @@ def show_dashboard():
         else:
             input_vec = vectorizer.transform([user_input])
             prediction = model.predict(input_vec)[0]
-            st.success(f"📌 Predicted Category: **{prediction}**")
+            st.success(f"📌 Predicted Subject: **{prediction}**")
 
             st.markdown("### 📖 Recommended Resources:")
+
             for link in resources.get(prediction, []):
                 if link.endswith(".pdf"):
-                    st.markdown(f"- 📄 [Download PDF]({link})")
+                    try:
+                        abs_pdf_path = os.path.abspath(os.path.join(os.path.dirname(__file__), "..", link))
+                        with open(abs_pdf_path, "rb") as f:
+                            base64_pdf = base64.b64encode(f.read()).decode("utf-8")
+
+                        st.markdown("#### 📄 Your Study Notes:")
+                        st.download_button(
+                            label="📥 Download PDF",
+                            data=base64.b64decode(base64_pdf),
+                            file_name=os.path.basename(link),
+                            mime="application/pdf"
+                        )
+
+                        pdf_display = f'''
+                            <embed src="data:application/pdf;base64,{base64_pdf}"
+                                   width="100%"
+                                   height="500px"
+                                   type="application/pdf"
+                                   style="border: 2px solid #ccc; border-radius: 10px;" />
+                        '''
+                        st.markdown(pdf_display, unsafe_allow_html=True)
+
+                    except FileNotFoundError:
+                        st.error(f"⚠️ PDF not found: `{link}`")
                 else:
                     st.markdown(f"- 🔗 [Open Resource]({link})")
 

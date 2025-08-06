@@ -1,0 +1,6 @@
+Operating Systems - Unit-wise Notes
+ Unit 1: Introduction- Definition, Functions, and Types of Operating Systems- System Calls, Kernel vs User Mode- OS Services and Components- Types: Batch, Time-sharing, Real-time, Distributed
+ Unit 2: Process Management- Process States and Control Block (PCB)- Scheduling: FCFS, SJF, Round Robin, Priority- Threads and Multithreading- Context Switching and CPU Scheduling Algorithms
+ Unit 3: Synchronization- Critical Section Problem- Petersons Algorithm, Mutex, Semaphores- Deadlock: Conditions, Prevention, Detection- Producer-Consumer Problem
+ Unit 4: Memory Management- Contiguous & Non-contiguous Allocation- Paging and Segmentation- Virtual Memory and Page Replacement- Thrashing and Working Set Model
+ Unit 5: File and I/O Systems- File Concepts and Directory Structure- Access & Allocation Methods- Disk Scheduling: FCFS, SSTF, SCAN- I/O Hardware, Buffering, and Caching

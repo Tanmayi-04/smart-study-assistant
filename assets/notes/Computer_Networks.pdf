@@ -1,0 +1,6 @@
+Computer Networks - Unit-wise Notes
+ Unit 1: Introduction & Layered Architecture- Components of a Network- OSI & TCP/IP Models- Transmission Media and Topologies
+ Unit 2: Data Link Layer- Framing, Error Detection and Correction- Flow Control & ARQ Protocols- MAC Protocols and Ethernet
+ Unit 3: Network Layer- IP Addressing and Subnetting- Routing Algorithms: Distance Vector, Link State- IPv4 vs IPv6, ICMP
+ Unit 4: Transport Layer- UDP and TCP: Features and Differences- Flow and Congestion Control- Three-way Handshake
+ Unit 5: Application Layer- DNS, HTTP, FTP, SMTP, POP3- Client-Server vs Peer-to-Peer- Network Security Basics

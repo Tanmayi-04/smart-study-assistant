@@ -1,0 +1,6 @@
+DBMS - Unit-wise Notes
+ Unit 1: Introduction- DBMS vs File System- Three-level architecture- Data Models: Hierarchical, Network, Relational- DBMS Languages: DDL, DML, DCL
+ Unit 2: ER Modeling- Entity, Attributes, Relationships- ER to Relational Mapping- Generalization, Specialization, Aggregation- Constraints and Keys
+ Unit 3: Relational Algebra & SQL- Operations in Relational Algebra- SQL Queries: SELECT, JOIN, GROUP BY- Subqueries and Views- Constraints and Triggers
+ Unit 4: Normalization- Functional Dependency- 1NF, 2NF, 3NF, BCNF- Multivalued and Join Dependencies- Decomposition and Lossless Join
+ Unit 5: Transactions & Concurrency- ACID Properties- Schedules, Serializability- Concurrency Control: Locking, Timestamping- Recovery Techniques

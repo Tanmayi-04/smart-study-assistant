@@ -2,43 +2,43 @@
   "Operating Systems": [
     "https://www.geeksforgeeks.org/operating-systems/",
     "https://nptel.ac.in/courses/106/106/106106144/",
-    "notes/OS_concepts.pdf",
-    "https://www.javatpoint.com/operating-system"
+    "https://www.javatpoint.com/operating-system",
+    "assets/notes/Operating_Systems.pdf"
   ],
   "DBMS": [
     "https://www.geeksforgeeks.org/dbms/",
     "https://www.tutorialspoint.com/dbms/index.htm",
     "https://nptel.ac.in/courses/106/105/106105175/",
-    "notes/DBMS_summary.pdf"
+    "assets/notes/DBMS.pdf"
   ],
   "OOPS": [
     "https://www.geeksforgeeks.org/object-oriented-programming-in-cpp/",
     "https://www.javatpoint.com/java-oops-concepts",
     "https://www.programiz.com/java-programming/object-oriented-programming",
-    "notes/OOPS_basics.pdf"
+    "assets/notes/OOPS.pdf"
   ],
   "DSA": [
     "https://www.geeksforgeeks.org/data-structures/",
     "https://www.coursera.org/specializations/data-structures-algorithms",
     "https://www.youtube.com/playlist?list=PLqM7alHXFySEQDk2MDfbwEdjd2svVJH9p",
-    "assignments/dsa_practice_set.pdf"
+    "assets/notes/DSA.pdf"
   ],
   "Computer Architecture": [
     "https://nptel.ac.in/courses/106/103/106103139/",
     "https://www.javatpoint.com/computer-organization-and-architecture",
     "https://www.tutorialspoint.com/computer_logical_organization/index.htm",
-    "notes/COA_notes.pdf"
+    "assets/notes/Computer_Architecture.pdf"
   ],
   "Software Engineering": [
     "https://www.geeksforgeeks.org/software-engineering/",
     "https://nptel.ac.in/courses/106/105/106105087/",
     "https://www.tutorialspoint.com/software_engineering/index.htm",
-    "notes/SE_summary_sheet.pdf"
+    "assets/notes/Software_Engineering.pdf"
   ],
   "Computer Networks": [
     "https://www.geeksforgeeks.org/computer-network-tutorials/",
     "https://nptel.ac.in/courses/106/105/106105081/",
     "https://www.tutorialspoint.com/computer_fundamentals/computer_networking.htm",
-    "notes/Networking_quick_notes.pdf"
+    "assets/notes/Computer_Networks.pdf"
   ]
 }
